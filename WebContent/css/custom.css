@@ -1,0 +1,14 @@
+@import url(https://fonts.googleapis.com/earlyaccess/kokoro.css);
+@import url(https://fonts.googleapis.com/earlyaccess/hannari.css);
+.navbar-brand,h1,h2,h3,h4{
+	font-family:'Kokoro';
+}
+h5{
+	font-family:'Kokoro';
+	font-size: 18px;
+	
+}
+body{
+	
+	font-family:'Kokoro';
+}
